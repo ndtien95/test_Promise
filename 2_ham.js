@@ -1,7 +1,7 @@
 
 
 
-console.log("this is commit by master")
+console.log("Hello master")
 
 function callback(fn){
 	fn();

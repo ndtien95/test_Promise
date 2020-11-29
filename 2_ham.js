@@ -1,7 +1,13 @@
 
 
 
+
 console.log("Hello master")
+
+function hello(){
+	console.log('Hello by PC');
+}
+
 
 function callback(fn){
 	fn();

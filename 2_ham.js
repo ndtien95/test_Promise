@@ -10,4 +10,3 @@ function callback(fn){
 }
 callback(hello);
 
-console.log("test")

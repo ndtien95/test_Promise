@@ -10,3 +10,10 @@ function callback(fn){
 }
 callback(hello);
 
+/*//Cách 3
+var ham = function(){
+	console.log('bố mày đây gọi gì đấy?')
+}
+ham();*/
+
+//*/

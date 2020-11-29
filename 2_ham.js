@@ -1,13 +1,10 @@
 
 
 
-function hello(){
-	console.log('Hello every body');
-}
+console.log("this is commit by master")
 
 function callback(fn){
 	fn();
 }
 callback(hello);
 
-console.log("test")

@@ -2,7 +2,7 @@
 
 
 function hello(){
-	console.log('Hello by PC');
+	console.log('Hello every body');
 }
 
 function callback(fn){

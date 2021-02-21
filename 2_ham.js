@@ -1,7 +1,7 @@
 console.log("Hello master")
 
 function hello(){
-	console.log('Hello by PC');
+	console.log('Hello every body');
 }
 
 
@@ -11,3 +11,4 @@ function callback(fn){
 callback(hello);
 
 console.log("commit by master")
+console.log("this is branch PC 1")
